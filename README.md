@@ -1,5 +1,7 @@
 # Lofied - Spotify Playlist to Lo-fi Converter
 
+🏆 JamHacks 2025 Solo Hack Winning Project
+
 ## Overview
 Lofied is a Python-based application that allows users to convert their Spotify playlists into lo-fi versions. The application downloads songs from Spotify playlists, processes them through a music separation pipeline, and creates lo-fi versions of the tracks. It can also convert songs into sheet music format for musical analysis and learning.
 
